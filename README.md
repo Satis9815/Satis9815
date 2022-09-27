@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satis Kumar Chaudhary
 - 👀 I’m interested in prgramming and coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/profile.php?id=100012026771370
 
